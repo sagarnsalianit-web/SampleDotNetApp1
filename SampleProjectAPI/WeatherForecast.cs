@@ -10,6 +10,8 @@ namespace SampleProjectAPI
 
         public string? Summary { get; set; }
 
+        public string? Testing { get; set; }
+
 
 
     }
